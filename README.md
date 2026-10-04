@@ -41,7 +41,7 @@ After:
 (b) Screenshot of debugger
 <img width="1192" height="417" alt="image" src="https://github.com/user-attachments/assets/6950e7ef-8d85-4752-acc2-7f21dd597fbf" />
 
-(c) Source Code:
+(c) Source Code: (may also be found in blinking_led_c.c file)
 
 ```c
 #include <stdint.h>
