@@ -1,6 +1,6 @@
 # EE-186-Lab-1
 
-## 1. Flashing & Debugging Code
+## 1. Flashing & Debugging Code 
 (a)
 **What happens during the flashing process?**
 
